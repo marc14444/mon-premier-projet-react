@@ -1,0 +1,17 @@
+.workspace{
+    display: flex;
+    justify-content: space-evenly;
+}
+.titre{
+    text-align: center;
+}
+.carrerCouleur{
+    display: flex;
+    justify-content: space-evenly;
+    width: 800px;
+}
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
